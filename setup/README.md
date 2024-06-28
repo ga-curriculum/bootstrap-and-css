@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Setup](./assets/hero.png)
+# ![Bootstrap and CSS - Setup](./assets/bootstrap-and-css-setup.png)
 
 ## Setup
 
